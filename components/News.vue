@@ -94,7 +94,7 @@ export default {
         return {
           thumb: item.src,
           src: item.src,
-          caption: '123',
+          caption: 'photo',
           srcset: item.src
         }
       })
